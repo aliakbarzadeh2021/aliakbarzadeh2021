@@ -9,18 +9,18 @@ aliakbarzadeh2021/aliakbarzadeh2021 is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Mohsen Asadi</h1>
+<h1 align="center">Hi 👋, I'm Ali Ali Akbarzadeh</h1>
 <h3 align="center">A passionate Software Engineer from Iran</h3>
 
 - 🔭 I’m currently working on **NFT MarketPlace**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohsenasadi501](https://github.com/mohsenasadi501)
 
-- 📝 I regularly write articles on [https://medium.com/@mohsenasadi501](https://medium.com/@mohsenasadi501)
+- 📝 I regularly write articles on [https://medium.com/@aliakbarzadeh2021](https://medium.com/@aliakbarzadeh2021)
 
 - 💬 Ask me about **React, Dotnet, Flutter**
 
-- 📫 How to reach me **mohsenasadi501@yahoo.com**
+- 📫 How to reach me **aliakbarzadeh2021@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,10 +28,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohsenasadi501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsenasadi501" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohsenasadi501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsen-asadi-0b77b2137" height="30" width="40" /></a>
-<a href="https://instagram.com/mohsenasadi501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsenasadi501" height="30" width="40" /></a>
-<a href="https://medium.com/@mohsenasadi501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohsenasadi501_94765" height="30" width="40" /></a>
+<a href="https://twitter.com/aliakbarzadeh2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohsenasadi501" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aliakbarzadeh2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsen-asadi-0b77b2137" height="30" width="40" /></a>
+<a href="https://instagram.com/aliakbarzadeh2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsenasadi501" height="30" width="40" /></a>
+<a href="https://medium.com/@aliakbarzadeh2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohsenasadi501_94765" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
